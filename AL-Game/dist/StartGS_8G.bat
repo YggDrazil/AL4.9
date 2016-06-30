@@ -1,5 +1,6 @@
 @echo off
 TITLE Aion Lightning - Game Server Console
+Color 9f
 REM SET PATH="Type here your path to java jdk/jre (including bin folder)."
 REM NOTE: Remove tag REM from previous line.
 :START
